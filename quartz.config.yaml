@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: vihari2.github.io/vault
+  baseUrl: https://vihari2.github.io/vault
   ignorePatterns:
     - private
     - templates
